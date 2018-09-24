@@ -1,4 +1,4 @@
-% Create a red rotating image and save in gif
+% Create a red rotating image and save it in gif
 % Author: Zephyr
 % 09/24/2018
 clear;
